@@ -1,0 +1,32 @@
+#######################################
+# Syntax coloring for AERL C++ Framework
+#######################################
+
+AERL	KEYWORD1
+
+on	KEYWORD2
+off	KEYWORD2
+glow	KEYWORD2
+flash	KEYWORD2
+glctrl	KEYWORD2
+read	KEYWORD2
+analogread	KEYWORD2
+delay	KEYWORD2
+bcdelay	KEYWORD2
+sleep	KEYWORD2
+wakeup	KEYWORD2
+activateSerial	KEYWORD2
+activate	KEYWORD2
+log	KEYWORD2
+logline	KEYWORD2
+format	KEYWORD2
+run	KEYWORD2
+comm_activate	KEYWORD2
+send_uart	KEYWORD2
+receive_uart	KEYWORD2
+comm_activatei2c	KEYWORD2
+send_i2c	KEYWORD2
+receive_i2c	KEYWORD2
+comm_activatespi	KEYWORD2
+send_spi	KEYWORD2
+run_engine	KEYWORD2
