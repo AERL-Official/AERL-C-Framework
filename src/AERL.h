@@ -3,15 +3,15 @@ AERL C++ Framework, Engineered & Developed By AERL Team.
 Copyright  ©  2026 Applied Electronics And Robotics Laboratory LLP
 Version : Beta ( 01/07/2026 Released)
 Flags---------------------------------------------------------------
-Development Board Sleep Can Be A Issue
-Wifi & BLE Compatibility Coming Soon On v1 ( about 1 week from beta release ( july 4, 2026 ))
+Development Board Sleep Can Be An Issue
+WiFi & BLE Compatibility Coming Soon On v1 ( about 1 week from beta release ( july 4, 2026 ))
 Enjoy. Learn. Advance
 Thanks for trying out & contributing.
 AERL Team
 */
 
 /* AERL SOFTWARE SEAL
-PROJECT NAME : AERL C++ Frame Work
+PROJECT NAME : AERL C++ Framework
 Version : Beta
 Release Date : 01/07/2026
 Category : Embedded Systems

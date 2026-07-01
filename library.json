@@ -1,0 +1,31 @@
+{
+  "name": "AERL C Framework",
+  "version": "0.1.1",
+  "description": "A beginner-friendly HAL framework for embedded systems and robotics. One header, one ready-made global object (no setup boilerplate), non-blocking timing (glow/flash/glctrl), run-once/run-N control, unified logging, and UART/I2C/SPI helpers. Works right beside Arduino.h.",
+  "keywords": [
+    "arduino",
+    "esp32",
+    "hal",
+    "framework",
+    "beginner",
+    "robotics",
+    "embedded",
+    "non-blocking"
+  ],
+  "authors": [
+    {
+      "name": "AERL - Applied Electronics and Robotics Laboratory LLP",
+      "url": "https://github.com/AERL-Official",
+      "maintainer": true
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AERL-Official/AERL-C-Framework.git"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/AERL-Official/AERL-C-Framework",
+  "frameworks": "arduino",
+  "platforms": "espressif32",
+  "headers": "AERL.h"
+}

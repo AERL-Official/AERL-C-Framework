@@ -18,7 +18,7 @@ A HAL framework built for embedded systems and robotics — designed to make wri
 
 ### How To Apply
 
-Download `AERL.h` and `AERL.cpp` into your project (for example a `src` folder), then in your sketch add:
+Download `AERL.h` into your project (for example a `src` folder), then in your sketch add:
 
 ```cpp
 #include <Arduino.h>

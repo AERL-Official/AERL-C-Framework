@@ -9,7 +9,7 @@ Developed by **AERL — Applied Electronics and Robotics Laboratory LLP**. MIT L
 
 ## 1. Install
 
-Copy `src/AERL.h` and `src/AERL.cpp` into your project (for example a `src/` folder), then in your sketch:
+Copy `src/AERL.h` into your project (for example a `src/` folder), then in your sketch:
 
 ```cpp
 #include <Arduino.h>
