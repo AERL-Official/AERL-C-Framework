@@ -1,6 +1,6 @@
 {
   "name": "AERL C Framework",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A beginner-friendly HAL framework for embedded systems and robotics. One header, one ready-made global object (no setup boilerplate), non-blocking timing (glow/flash/glctrl), run-once/run-N control, unified logging, and UART/I2C/SPI helpers. Works right beside Arduino.h.",
   "keywords": [
     "arduino",

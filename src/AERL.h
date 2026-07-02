@@ -157,7 +157,7 @@ inline AERLClass AERL;
     }
     if (us < 50) us = 50;
     esp_timer_stop(aerl_timer);
-    if (esp_timer_start_once(aerl_timer, us) != ESP_OK) esp_timer_restart(aerl_timer, us);
+    esp_timer_start_once(aerl_timer, us);
   }
 #endif
 
